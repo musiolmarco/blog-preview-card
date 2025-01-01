@@ -8,7 +8,7 @@ This is my solution for a [Frontend Mentor Challenge](https://www.frontendmentor
 
 ## 🌐 Live Demo
 
-Check out the live version here: [Live Site](#)
+Check out the live version here: [Live Site](https://musiolmarco.github.io/blog-preview-card/)
 
 ## 📂 Project Overview
 
@@ -27,7 +27,7 @@ This project is a simple and elegant blog preview card designed to practice fron
 
 ## 🖼️ Screenshot
 
-![Screenshot](./screenshot.png) <!-- Replace with your screenshot path -->
+![Screenshot](./screenshot.png)
 
 ## 🧑‍💻 Author
 
